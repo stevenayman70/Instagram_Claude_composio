@@ -28,16 +28,19 @@
 
 ### 1️⃣ افتح رابط Composio
 ```
-https://connect.composio.dev/mcp
+https://composio.dev/
 ```
 ده هيوديك لصفحة الاتصال بالأدوات الخارجية، ومن ضمنها Instagram.
 
 ### 2️⃣ اطلب من Claude يبدأ الربط
 اكتب في الشات حاجة زي:
-> 💬 "اربطني بـ Instagram من خلال Composio عشان أحلل الـ Reels بتاعتي"
+> 💬 "اربطني بـ Instagram من خلال Composioعشان أحلل الـ Reels بتاعتي"
 
 Claude هيدوّر على أداة Instagram المناسبة، وهيديك **رابط تفويض (auth link)**.
-
+```
+https://connect.composio.dev/mcp
+```
+طط
 ### 3️⃣ سجّل دخول ووافق ✅
 - افتح الرابط اللي هيظهرلك
 - سجّل دخول بحساب Instagram / Facebook بتاعك
